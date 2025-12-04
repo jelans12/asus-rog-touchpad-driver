@@ -32,3 +32,4 @@ target
 # Arch Linux packaging
 *.pkg.tar.zst
 *.tar.gz
+**/asus-rog-touchpad-driver/
